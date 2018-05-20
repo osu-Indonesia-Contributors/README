@@ -38,3 +38,4 @@ REPOSITORI | BRANCH AKTIF
 
 > Yang anak-anak forum, mohon bantuannya buat ngecekin 
 
+> Channel lebih baik daripada kanal
