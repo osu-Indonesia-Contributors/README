@@ -8,21 +8,23 @@ Sebelum memulai, diharapkan untuk membaca beberapa artikel berikut untuk mencega
 - [Github Workflow](https://www.petanikode.com/github-workflow/)
 
 
-## KERJA KERJA
+## CARA BEKERJA
 > Semoga dengan membaca hal itu tadi, kalian bisa mengerti sedikit sedikit
 
-1. Lakukan `fork` pada repositori [osu-web Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-web) atau [osu-wiki Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-wiki)
+1. Lakukan `fork` pada repositori [osu! Indonesia Contributors](https://github.com/osu-Indonesia-Contributors)
 
-2. Jika telak melakukan `fork`pada salah satu repositori tersebut, lakukan perubahan-perubahan pada repositori kalian. Jangan lupa untuk menyertakan `commit messages` pada setiap `commit` atau perubahan kalian agar mudah untuk dimengerti perubahan apa yang kalian lakukan
+2. Jika telah melakukan `fork`pada salah satu repositori tersebut, lakukan perubahan-perubahan pada repositori kalian. Jangan lupa untuk menyertakan `commit messages` pada setiap `commit` atau perubahan kalian agar mudah untuk dimengerti perubahan apa yang telah kalian lakukan
 
-3. Jika perubahan kalian telah selesai, buatlah sebuah `pull request` pada branch kami yang sedang aktif, berikut daftar branch kami yang aktif :
+3. Jika perubahan kalian telah selesai, buatlah sebuah `pull request` pada branch kami yang sedang aktif yang berhubungan dengan perubahan yang kalian lakukan.
+
+berikut daftar branch kami yang aktif :
 
 REPOSITORI | BRANCH AKTIF
 -------|----------
-[osu-web Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-web) | [id-localisation-rev-1](https://github.com/osu-Indonesia-Contributors/osu-web/tree/id-localisation-rev-1)
-[osu-wiki Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-wiki) | *Belum tersedia*
+~~[osu-web Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-web) | [id-localisation-rev-1](https://github.com/osu-Indonesia-Contributors/osu-web/tree/id-localisation-rev-1)~~
+[osu-wiki Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-wiki) | [Daftar Branch](https://github.com/osu-Indonesia-Contributors/osu-wiki/branches)
 
-4. Atur base fork mengarah ke `osu-indonesia-contributors/BRANCH_AKTIF` dan head fork mengarah ke repositori kamu dan tekan `Create Pull Request`
+4. Atur base fork mengarah ke `osu-indonesia-contributors/BRANCH_AKTIF` dan head fork mengarah ke `repositori kamu/BRANCH_KAMU` dan tekan `Create Pull Request`
 
 5. Ketik Judul dan Pesan mengenai Pull Request kamu, isilah sedetail mungkin sehingga kami dapat membantu apa yang menjadi masalah atau hal lain mengenai pull request kamu.
 
