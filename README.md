@@ -21,7 +21,7 @@ berikut daftar branch kami yang aktif :
 
 REPOSITORI | BRANCH AKTIF
 -------|----------
-[~~osu-web Lokal Indonesia~~](https://github.com/osu-Indonesia-Contributors/osu-web) | [~~id-localisation-rev-1~~](https://github.com/osu-Indonesia-Contributors/osu-web/tree/id-localisation-rev-1)~~
+[~~osu-web Lokal Indonesia~~](https://github.com/osu-Indonesia-Contributors/osu-web) | [~~id-localisation-rev-1~~](https://github.com/osu-Indonesia-Contributors/osu-web/tree/id-localisation-rev-1)
 [osu-wiki Lokal Indonesia](https://github.com/osu-Indonesia-Contributors/osu-wiki) | [Daftar Branch](https://github.com/osu-Indonesia-Contributors/osu-wiki/branches)
 
 4. Atur base fork mengarah ke `osu-indonesia-contributors/BRANCH_AKTIF` dan head fork mengarah ke `repositori kamu/BRANCH_KAMU` dan tekan `Create Pull Request`
