@@ -2,6 +2,7 @@
 # Petunjuk Penggunaan
 
 Sebelum memulai, diharapkan untuk membaca beberapa artikel berikut untuk mencegah pertanyaan yang berlebihan :
+
 - [Panduan Kontribusi | osu!wiki](https://osu.ppy.sh/help/wiki/osu!_wiki_Contribution_Guide)
 - [osu!dev discord server](https://discord.gg/ppy)
 - [Pengenalan Github untuk pemula](https://www.candra.web.id/pengenalan-github-untuk-pemula/)
