@@ -4,12 +4,12 @@
 
 Berikut ini adalah daftar lema/kosakata yang telah disepakati dalam pengerjaan terjemahan osu! :
 
-digunakan | tdk diugnakan | Konteks | 
+Digunakan | Tidak Digunakan | Konteks | 
 ---------|--------|-------
 Laman | Halaman | situs web
 situs web | website | JELAS
 Email  | surel | JELAS
-Anda | Kamu, kalian | Kata tunjuk pengguna
+Anda | Kamu, Kalian | Kata tunjuk pengguna
 
 
 ### Bentuk Penulisan + Markdown Format

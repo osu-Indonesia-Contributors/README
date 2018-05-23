@@ -1,9 +1,9 @@
 # Selamat datang di osu! Indonesia Contributors Github Organization
 
-Selamat datang untuk kalian yang masuk ke repositori ini. Jika kalian bingung dengan organisasi github ini, simpel jelasinnya (^o^). Github Org ini adalah tempat berkumpulnya para pemain osu! indonesia maupun alumni pemain osu! yang bertujuan untuk membuat osu! menjadi lebih baik dalam hal Terjemahan maupun pengembangan osu! dalam hal pemrograman.
+Selamat datang untuk kalian yang masuk ke repositori ini. Jika kalian bingung dengan organisasi github ini, simpel jelasinnya (^o^). Github.Org ini adalah tempat berkumpulnya para pemain osu! indonesia maupun alumni pemain osu! yang bertujuan untuk membuat osu! menjadi lebih baik dalam hal Terjemahan maupun pengembangan osu! dalam hal pemrograman.
 
 Organisasi ini terbuka bagi seluruh pemain osu! yang ingin memberi kontribusi kepada osu! agar menjadikannya lebih baik. Jika kalian tertarik, kalian dapat menghubungi salah satu anggota dalam organisasi github ini atau dengan melihat file [Daftar Kontributor](/daftar-kontributor.md). Jangan lupa untuk menyertakan beberapa informasi yang mungkin akan membantu kami dalam menangani permohonanmu untuk masuk kedalam organsasi ini.
-TENANG AJA, KAMI GA NYAKOT KOK! (^o^)
+**TENANG AJA, KAMI GA NYAKOT KOK! (^o^)**
 
 ## Rekrutmen
 
@@ -24,7 +24,7 @@ Jika kalian benar - benar ingin bergabung dalam organisasi ini, silahkan lihat b
 
 *Tenang aja, bakal kami bantu dalam pengerjaannya, gausah takut. **GIVE A SHOT***
 
-Jika kalian berniat untuk bergabung, kalian dapat menghubungi salah satu anggota kami dengan melihat file [Daftar Kontributor](/daftar-kontributor.md). Setelah itu, kami akan melakukan beberapa tes dan reviu.
+Jika kalian berniat untuk bergabung, kalian dapat menghubungi salah satu anggota kami dengan melihat file [Daftar Kontributor](/daftar-kontributor.md). Setelah itu, kami akan melakukan beberapa ujian dan ulasan.
 
 ## Daftar tautan Penting
 
