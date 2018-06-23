@@ -15,6 +15,7 @@ Memperbarui | memperbaharui | BAKU
 Mouse | tetikus | input devices
 Keyboard | papan ketik | input devices
 Channel | kanal | channel dalam IRC dan Youtube
+Diubah | dirubah | BAKU
 
 ### Bentuk Penulisan + Markdown Format
 
