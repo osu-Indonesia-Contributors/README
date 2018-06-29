@@ -28,4 +28,7 @@ Diubah | dirubah | BAKU
 
 3. Teks tautan/hyperlink **jangan** diterjemahkan
     >[*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513)
-4. TBA
+    
+4. Judul permainan `osu!` jangan diganti.
+    > osu!
+5. TBA
